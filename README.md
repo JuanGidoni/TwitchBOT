@@ -1,2 +1,2 @@
 # TwitchBOT
-Using TMI.js and Electron.js 
+Electron App for our Twitch BOT, using: Electron JS and TMI.js
